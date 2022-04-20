@@ -1,4 +1,5 @@
 # myrepo
+This Project is a Task given by The Spark Foundation during GRIP program under IOT and computer vision internship
 This project is on Optical Character Recognition(ORC) using Computer Vision
 
 Character detection is done which extracts printed text from an image
